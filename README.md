@@ -3,7 +3,7 @@
 💻 Desenvolvedor de Software Full Stack  
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
 📚 Graduando em Engenharia de Software  
-🚀 Fundador da De Paula Systems
+🚀 Eng. de Software da De Paula Systems
 
 Desenvolvedor focado na criação de sistemas web e desktop, APIs, automação de processos e soluções completas para diferentes segmentos.
 
