@@ -42,7 +42,7 @@ Git • GitHub • Docker • Linux • Figma
 
 ## 🏢 De Paula Systems
 
-Fundador da De Paula Systems, empresa voltada ao desenvolvimento de software, sistemas personalizados, automação de processos e soluções digitais para empresas.
+Engenheiro de Software Full Stack da De Paula Systems, empresa voltada ao desenvolvimento de software, sistemas personalizados, automação de processos e soluções digitais para empresas.
 
 ---
 
