@@ -60,15 +60,6 @@ Sistema completo de gerenciamento de vendas e operações desenvolvido para esta
 ### Portal Lagoinha
 Projeto web desenvolvido para empresa do Portal Lagoinha.
 
-### Projeto Embras
-Aplicação Full Stack utilizando Angular, Ruby on Rails, PostgreSQL e Docker.
-
----
-
-## 📊 Estatísticas
-
-Aqui entram os cards de estatísticas do GitHub.
-
 ---
 
 ## 🌐 Contato
